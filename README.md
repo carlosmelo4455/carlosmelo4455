@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **carlos.melo4455@gmail.com**
 
-- ⚡ Fun fact **i was a minecraft modder before all that java stuff**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-melo-045246240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
